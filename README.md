@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
@@ -237,3 +238,6 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
+=======
+# pddenis05.github.io
+>>>>>>> 6eda816d60592e5cd6a418d7aeddc5b5cb7dd5a8
