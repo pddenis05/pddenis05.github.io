@@ -48,7 +48,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "pddenis056@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # remove this line if you don't want to show an RSS link at the bottom
   github: pddenis05
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -56,7 +56,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: popovici_denis_
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -86,11 +86,12 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
