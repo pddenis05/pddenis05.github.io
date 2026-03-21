@@ -13,3 +13,5 @@ Hi! I'm a Computer Science student passionate about programming, web development
 
 ## Projects
 - **Portfolio Website** – [GitHub Repo](https://github.com/pddenis05/pddenis05.github.io)
+- **Movie App** - [GitHub Repo](https://github.com/pddenis05/movie-renting)
+- **Snake Game** - [GitHub Repo](https://github.com/pddenis05/snake-python)
