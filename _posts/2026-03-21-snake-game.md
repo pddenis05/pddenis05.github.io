@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Snake Game
-subtitle: Made by Popovici Denis
+subtitle:
 cover-img: /assets/img/Snake_OG-logo.jpg
 thumbnail-img: /assets/img/Snake_OG-logo.jpg
 share-img: /assets/img/Snake_OG-logo.jpg
