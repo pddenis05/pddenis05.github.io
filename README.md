@@ -2,10 +2,10 @@
 
 Welcome to my personal website, hosted via GitHub Pages! This project is built using the Beautiful Jekyll template.
 
-## 🚀 Live Demo
+##  Live Demo
 You can view my website live here: [pddenis05.github.io](https://pddenis05.github.io)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * HTML5 / CSS3
 * Markdown
 * Jekyll Theme: Beautiful Jekyll
